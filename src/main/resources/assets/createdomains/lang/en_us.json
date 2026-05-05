@@ -1,0 +1,13 @@
+{
+  "itemGroup.createdomains": "Example Mod Tab",
+  "block.createdomains.example_block": "Example Block",
+  "item.createdomains.example_item": "Example Item",
+
+  "createdomains.configuration.title": "Create: Domains Configs",
+  "createdomains.configuration.section.createdomains.common.toml": "Create: Domains Configs",
+  "createdomains.configuration.section.createdomains.common.toml.title": "Create: Domains Configs",
+  "createdomains.configuration.items": "Item List",
+  "createdomains.configuration.logDirtBlock": "Log Dirt Block",
+  "createdomains.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createdomains.configuration.magicNumber": "Magic Number"
+}
